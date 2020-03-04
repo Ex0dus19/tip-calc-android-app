@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="about">About</string>
+    <string name="about_title">Tip Calculator %s</string>
+    <string name="about_message">Created by: John Minney III</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip_amount">$0.00</string>
+    <string name="calculate">Calculate</string>
+    <string name="error_message">Please Enter a Bill Amount</string>
+    <string name="tip_error_message">Please Select a Preferred Tip</string>
+</resources>
